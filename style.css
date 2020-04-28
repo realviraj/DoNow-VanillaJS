@@ -31,6 +31,7 @@ h1, h3 {
     width: 90%;
     max-width: 565px;
     height: 90vh;
+    border: 2px dashed;
     margin: auto;
     padding: 15px;
     margin-top: 5vh;
