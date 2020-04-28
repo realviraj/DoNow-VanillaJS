@@ -1,2 +1,1 @@
-# DoNow-VanillaJS
-A Todo app made entirely in VanillaJS.
+## DoNow- A todo app made entirely in VanillaJS.
